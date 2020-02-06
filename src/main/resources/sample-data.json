@@ -1,0 +1,8 @@
+[
+  {"tradeId" : "EXT55551", "name": "CPTY1", "securityId": "SECURITY1", "quantity" : 1500, "value" : 3000.0},
+  {"tradeId" : "EXT55552", "name": "CPTY1", "securityId": "SECURITY1", "quantity" : 2500, "value" : 4000.0},
+  {"tradeId" : "EXT55553", "name": "CPTY1", "securityId": "SECURITY2", "quantity" : 3000, "value" : 6000.0},
+
+  {"bookingId" : "MY99991","cptyId": "EXT1","securityId": "SECURITY1","quantity" : 4000, "value" : 7000.0},
+  {"bookingId" : "MY99992","cptyId": "EXT1","securityId": "SECURITY2","quantity" : 3000, "value" : 6000.0}
+]
